@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/2n9mXhF/code-dark-banner.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/5Tq5PtF/code-light-banner.png">
-    <img alt="Ammar Am8o Banner" src="https://i.ibb.co/5Tq5PtF/code-light-banner.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+    <img alt="Ammar Am8o Banner" src="./assets/banner-light.png">
   </picture>
 </p>
 
@@ -38,45 +38,6 @@
   <li>📂 All projects: <a href="https://github.com/Am8o?tab=repositories">GitHub Repositories</a></li>
   <li>📫 Contact: <strong>amoory862al@gmail.com</strong></li>
 </ul>
-
----
-
-<h2 align="center">🧩 What I Work With</h2>
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>AI & ML</strong></td>
-    <td align="center"><strong>Backend & APIs</strong></td>
-    <td align="center"><strong>Frontend & Mobile</strong></td>
-    <td align="center"><strong>Systems & Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      Python<br>
-      PyTorch<br>
-      TensorFlow<br>
-      Data processing
-    </td>
-    <td align="center">
-      REST APIs<br>
-      Auth and sessions<br>
-      MongoDB<br>
-      Microservices thinking
-    </td>
-    <td align="center">
-      React<br>
-      Flutter (learning)<br>
-      Flet<br>
-      Modern UI systems
-    </td>
-    <td align="center">
-      Git and GitHub<br>
-      Docker<br>
-      AWS basics<br>
-      Linux workflow
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -121,15 +82,21 @@
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Am8o&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Am8o&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Am8o&theme=radical&hide_border=true" alt="GitHub streak">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Am8o&theme=radical&hide_border=true" alt="GitHub streak">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am8o&layout=compact&theme=radical&hide_border=true" alt="Top languages">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am8o&layout=compact&theme=radical&hide_border=true" alt="Top languages">
+  </a>
 </p>
 
 ---
@@ -163,25 +130,13 @@ Focus is on clean architecture, reproducible experiments, and code that is easy 
 
 ---
 
-<h2 align="center">🧱 How I Think About Projects</h2>
-
-<ul>
-  <li>Start from the problem, not the framework</li>
-  <li>Prefer simple architectures that scale later</li>
-  <li>Automate boring tasks and repeatable workflows</li>
-  <li>Write code like a teammate will maintain it for years</li>
-  <li>Measure with data, improve, then ship again</li>
-</ul>
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://x.com/amoory862al" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white" alt="X">
   </a>
-  </p>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZpbnVwa2E5Z3ZpbnVwa2E5Z3ZpbnVwa2E5Z3ZpbnVwa2E5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zw3oBUuOlDJ3W/giphy.gif" alt="Coding animation" width="500">
