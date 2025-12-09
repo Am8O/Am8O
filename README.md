@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/2n9mXhF/code-dark-banner.png">
@@ -23,7 +22,6 @@
 
 ---
 
-<!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
@@ -43,7 +41,6 @@
 
 ---
 
-<!-- Quick Skill Map -->
 <h2 align="center">🧩 What I Work With</h2>
 
 <table align="center">
@@ -83,11 +80,9 @@
 
 ---
 
-<!-- Tech Stack Icons -->
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
@@ -95,7 +90,6 @@
 </p>
 
 <p align="center">
-  <!-- Web and frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
@@ -105,13 +99,11 @@
 </p>
 
 <p align="center">
-  <!-- Backend and data -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/REST-000000?logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
 
 <p align="center">
-  <!-- AI and tools -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
@@ -120,14 +112,12 @@
 </p>
 
 <p align="center">
-  <!-- Extra -->
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" alt="Blender">
 </p>
 
 ---
 
-<!-- Animation and Stats -->
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
@@ -144,7 +134,6 @@
 
 ---
 
-<!-- AI and Valorant Section -->
 <h2 align="center">🎮 AI + Gaming Lab</h2>
 
 <p>
@@ -164,7 +153,6 @@ Focus is on clean architecture, reproducible experiments, and code that is easy 
 
 ---
 
-<!-- Electrical Engineering Angle -->
 <h2 align="center">⚡ Software + Electrical Engineering</h2>
 
 <ul>
@@ -175,7 +163,6 @@ Focus is on clean architecture, reproducible experiments, and code that is easy 
 
 ---
 
-<!-- How I Work -->
 <h2 align="center">🧱 How I Think About Projects</h2>
 
 <ul>
@@ -188,18 +175,16 @@ Focus is on clean architecture, reproducible experiments, and code that is easy 
 
 ---
 
-<!-- Connect With Me -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://x.com/amoory862al" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white" alt="X">
   </a>
- 
-</p>
+  </p>
 
 <p align="center">
-  <img src="https://github.com/Am8o/Am8o/raw/main/assets/terminal.gif" alt="Coding animation" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZpbnVwa2E5Z3ZpbnVwa2E5Z3ZpbnVwa2E5Z3ZpbnVwa2E5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zw3oBUuOlDJ3W/giphy.gif" alt="Coding animation" width="500">
 </p>
 
 <p align="center">
