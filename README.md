@@ -25,7 +25,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  AI developer, backend builder, and electrical engineering student.<br>
+  AI developer, backend builder, and computer science student.<br>
   I mix low level understanding with high level systems to build practical products.
 </p>
 
