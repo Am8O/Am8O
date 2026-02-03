@@ -133,7 +133,7 @@ Focus is on clean architecture, reproducible experiments, and code that is easy 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://x.com/amoory862al" target="_blank">
+  <a href="https://x.com/0xAm8" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white" alt="X">
   </a>
 </p>
